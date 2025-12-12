@@ -1,0 +1,5 @@
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.27.1
+nbformat==5.9.2
+nbconvert==7.12.0
