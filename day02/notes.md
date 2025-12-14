@@ -34,6 +34,10 @@ text.split()       # Split into list
 text.replace(old, new)  # Replace
 text.find(substring)    # Find position
 text.count(char)   # Count occurrences
+text.isalpha()     # Only letters
+text.isdigit()     # Only digits
+text.isalnum()     # Letters + digits
+text.isspace()     # Only spaces
 ```
 
 ### String Formatting
