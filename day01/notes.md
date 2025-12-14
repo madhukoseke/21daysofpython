@@ -14,6 +14,7 @@ name = "Alice"
 age = 25
 height = 1.65
 is_student = True
+result = None
 ```
 
 ### Data Types
@@ -21,6 +22,10 @@ is_student = True
 - **float**: Decimal numbers (3.14, -0.5, 2.0)
 - **str**: Text ("hello", 'Python')
 - **bool**: True or False
+- **NoneType**: Represents the absence of a value (None)
+
+
+
 
 ### Type Conversion
 ```python
